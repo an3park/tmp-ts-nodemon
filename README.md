@@ -1,3 +1,9 @@
+### clone
+```sh
+git clone https://github.com/an3park/tmp-ts-nodemon.git
+cd tmp-ts-nodemon
+```
+
 ### dev
 ```sh
 npm i
